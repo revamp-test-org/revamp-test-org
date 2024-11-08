@@ -1,4 +1,14 @@
 
+=======
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://imgproxy.cryptojobslist.com/sig0x23/q:75/resize:fill/dpr:1.2/width:200/height:200/rs:fit/ex:1/plain/gs:/job-listing-logos/876f53dc-7a68-4dd4-9218-34ee8208d19c.png" alt="Metana Logo" style="margin-right: 20px; width: 200px; height: 200px;">
+  <div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=600&size=40&pause=1000&color=B5F732&vCenter=true&width=600&lines=Welcome+to+Metana!+%F0%9F%91%8B;Future-Proof+your+Career.;Land+a+job.+Guaranteed." alt="Typing SVG">
+    </a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center;">
   <br>
@@ -11,22 +21,13 @@
 ---
 
 
+
 **Metana** offers immersive, project-based bootcamps to transform engineers into Web3 and software development experts. Our hands-on training, personalized mentorship, and job placement support equip you with the skills to excel in high-demand tech roles.
 
+=======
 ---
 
 ## 🌐 Our Bootcamps
-
-### Web3 Solidity Bootcamp (4 Months)
-Transition from Web2 to Web3 with this intensive bootcamp focused on building on the Ethereum blockchain. Master smart contracts, DeFi protocols, and decentralized applications through hands-on projects.
-
-**Key Features**:
-- **Topics Covered**: Solidity, ERC20/ERC721/ERC1155, IPFS, Ethers.js, Hardhat, Smart Contract Security, Gas Optimization, Chainlink, Zero-Knowledge Proofs, and more.
-- **Structure**: Project-based learning to build a portfolio that impresses employers.
-- **Expert Mentorship**: Weekly one-on-one sessions with industry professionals.
-- **Job Support**: Comprehensive career assistance through Metana’s JobCamp™️.
-
-**Learn More**: [Web3 Solidity Bootcamp](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)
 
 ---
 
@@ -40,6 +41,19 @@ Start from zero and become a Web3 expert. This bootcamp covers 3 months of Web3 
 - **Career Support**: Job placement assistance through Metana’s JobCamp™️.
 
 **Learn More**: [Full Stack Web3 Beginner Bootcamp](https://metana.io/web3-beginner-bootcamp/)
+
+---
+
+### Web3 Solidity Bootcamp (4 Months)
+Transition from Web2 to Web3 with this intensive bootcamp focused on building on the Ethereum blockchain. Master smart contracts, DeFi protocols, and decentralized applications through hands-on projects.
+
+**Key Features**:
+- **Topics Covered**: Solidity, ERC20/ERC721/ERC1155, IPFS, Ethers.js, Hardhat, Smart Contract Security, Gas Optimization, Chainlink, Zero-Knowledge Proofs, and more.
+- **Structure**: Project-based learning to build a portfolio that impresses employers.
+- **Expert Mentorship**: Weekly one-on-one sessions with industry professionals.
+- **Job Support**: Comprehensive career assistance through Metana’s JobCamp™️.
+
+**Learn More**: [Web3 Solidity Bootcamp](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)
 
 ---
 
