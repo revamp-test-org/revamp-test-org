@@ -1,7 +1,6 @@
 
 
 <div style="display: flex; align-items: center;">
-  <img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 1200px; height: 200px;">
   <br>
   <br>
     <a href="https://git.io/typing-svg">
@@ -77,6 +76,8 @@ Gain lifetime access to our network of international professionals, industry exp
 
 [Connect with Our Community](https://metana.io/community)
 
+
+<img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 1200px; height: 200px;">
 ---
 
 Transform your career with Metana. [Apply Now](https://metana.io/apply)
