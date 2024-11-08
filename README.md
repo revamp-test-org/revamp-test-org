@@ -1,3 +1,6 @@
+<!-- Embedding the image at the top -->
+![Metana Logo](https://imgproxy.cryptojobslist.com/sig0x23/q:75/resize:fill/dpr:1.2/width:200/height:200/rs:fit/ex:1/plain/gs:/job-listing-logos/876f53dc-7a68-4dd4-9218-34ee8208d19c.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=600&size=40&pause=1000&color=B5F732&vCenter=true&width=600&lines=Welcome+to+Metana!+%F0%9F%91%8B;Future-Proof+your+Career.;Land+a+job.+Guaranteed.)](https://git.io/typing-svg)
 
 **Metana** offers immersive, project-based bootcamps to transform engineers into Web3 and software development experts. Our hands-on training, personalized mentorship, and job placement support equip you with the skills to excel in high-demand tech roles.
@@ -68,3 +71,4 @@ Gain lifetime access to our network of international professionals, industry exp
 ---
 
 Transform your career with Metana. [Apply Now](https://metana.io/apply)
+
