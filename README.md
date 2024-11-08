@@ -1,7 +1,15 @@
 
+
 <div style="display: flex; align-items: center;">
-  <img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 200px; height: 200px;">
+  <img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 1200px; height: 200px;">
+  <br>
+  <br>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=600&size=40&pause=1000&color=B5F732&vCenter=true&width=600&lines=Welcome+to+Metana!+%F0%9F%91%8B;Future-Proof+your+Career.;Land+a+job.+Guaranteed." alt="Typing SVG" style="margin-top: -50px;">
+    </a>
 </div>
+
+---
 
 
 **Metana** offers immersive, project-based bootcamps to transform engineers into Web3 and software development experts. Our hands-on training, personalized mentorship, and job placement support equip you with the skills to excel in high-demand tech roles.
