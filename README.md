@@ -3,7 +3,7 @@
 
 ## **Metana empowers aspiring developers with immersive, hands-on training in Full Stack and Web3 technologies. Through practical projects, expert mentorship, and dedicated career guidance, we help you land high-demand tech roles and build a future-proof career.**
 
----
+
 
 ## 🚀 Bootcamp Offerings  
 
@@ -19,7 +19,7 @@
 
 👉 **[Learn More →](https://metana.io/full-stack-software-engineer-bootcamp/)**  
 
----
+
 
 ### **2. Web3 Solidity Bootcamp (4 Months)**  
 > Dive into blockchain development and learn to build decentralized applications (dApps) that power the future of technology.
@@ -33,7 +33,7 @@
 
 👉 **[Learn More →](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)**  
 
----
+
 
 ### **3. Full Stack Web3 Beginner Bootcamp (8 Months)**  
 > From novice to expert—this program is tailored for complete beginners looking to master both Web2 and Web3 development.
