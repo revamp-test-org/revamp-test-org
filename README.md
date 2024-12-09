@@ -1,90 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=B5F732&background=1F2046&center=true&vCenter=true&width=1000&height=100&lines=Welcome+To+Metana+!+%F0%9F%91%8B;Future-Proof+Your+Career+!;Land+A+Job.+Guaranteed+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Welcome to Metana! 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=2B9348&background=161B22&center=true&vCenter=true&width=1000&height=100&lines=Shape+Your+Future+With+Metana!;Master+Web3+and+Full-Stack+Development+🌟)](https://git.io/typing-svg)
 
-
-
-
-
-
-
-
-### **Metana** offers immersive, project-based bootcamps to transform engineers into Web3 and software development experts. Our hands-on training, personalized mentorship, and job placement support equip you with the skills to excel in high-demand tech roles.
-
-<br>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=10000&color=B5F732&background=1F2046&center=true&vCenter=true&width=1000&lines=Our+Bootcamps+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
+Metana empowers aspiring developers with immersive, hands-on training in Full Stack and Web3 technologies. Through practical projects, expert mentorship, and dedicated career guidance, we help you land high-demand tech roles and build a future-proof career.
 
 ---
 
-## Full Stack Development Bootcamp (4 Months)
-> Ideal for aspiring software engineers balancing life commitments, this 4-month bootcamp equips you with full-stack web development skills, from front-end to back-end.
+## 🚀 Bootcamp Offerings  
 
-**Key Features**:
-* **Topics Covered**: HTML, CSS, JavaScript, React, Node.js, Database Management, API Development, Deployment.
-* **Flexible Learning**: Tailored for working professionals with a fast-paced curriculum.
-* **Practical Training**: Build and deploy full-stack applications.
-* **Job Focus**: Career coaching and job placement support through Metana’s JobCamp™️.
+### **1. Full Stack Development Bootcamp (4 Months)**  
+> A streamlined program designed for professionals eager to build robust web applications and transition into tech roles seamlessly.
 
-**Learn More**: [Software Engineering Bootcamp](https://metana.io/full-stack-software-engineer-bootcamp/)
+#### **Key Features**:
+- **Topics Covered**:  
+  HTML, CSS, JavaScript, React, Node.js, Database Design, API Development, and Deployment.  
+- **Flexible Schedules**: Perfect for working professionals balancing multiple commitments.  
+- **Real-World Projects**: Build and deploy production-ready web applications.  
+- **Career Success**: Tailored guidance and job placement support via **Metana's JobCamp™️**.
 
-
----
-
-
-## Web3 Solidity Bootcamp (4 Months)
-> Transition from Web2 to Web3 with this intensive bootcamp focused on building on the Ethereum blockchain. Master smart contracts, DeFi protocols, and decentralized applications through hands-on projects.
-
-**Key Features**:
-* **Topics Covered**: Solidity, ERC20/ERC721/ERC1155, IPFS, Ethers.js, Hardhat, Smart Contract Security, Gas Optimization, Chainlink, Zero-Knowledge Proofs, and more.
-* **Structure**: Project-based learning to build a portfolio that impresses employers.
-* **Expert Mentorship**: Weekly one-on-one sessions with industry professionals.
-* **Job Support**: Comprehensive career assistance through Metana’s JobCamp™️.
-
-**Learn More**: [Web3 Solidity Bootcamp](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)
+👉 **[Learn More →](https://metana.io/full-stack-software-engineer-bootcamp/)**  
 
 ---
 
+### **2. Web3 Solidity Bootcamp (4 Months)**  
+> Dive into blockchain development and learn to build decentralized applications (dApps) that power the future of technology.
 
-### Full Stack Web3 Beginner Bootcamp (8 Months)
-> Start from zero and become a Web3 expert. This bootcamp covers 3 months of Web3 fundamentals, followed by 4 months of expert Solidity development for a seamless integration of full-stack and Web3 skills.
+#### **Key Features**:
+- **Topics Covered**:  
+  Solidity, Smart Contract Security, ERC Standards, IPFS, Hardhat, Gas Optimization, and Chainlink.  
+- **Portfolio-Driven Learning**: Create and showcase real-world decentralized applications.  
+- **One-on-One Mentorship**: Weekly sessions with blockchain experts.  
+- **Job Placement**: Comprehensive support to secure your dream role in Web3.  
 
-**Key Features**:
-- **Structure**: 3 months of foundational Web3 training, 4 months of advanced Solidity development.
-- **Topics Covered**: Full-Stack Web Development, Advanced Solidity, Smart Contracts, Web3 Integrations, UI/UX Design.
-- **Hands-On Projects**: Develop real-world applications to showcase your skills.
-- **Career Support**: Job placement assistance through Metana’s JobCamp™️.
-
-**Learn More**: [Full Stack Web3 Beginner Bootcamp](https://metana.io/web3-beginner-bootcamp/)
-
----
-
-## 💼 Metana’s JobCamp™️
-Our **JobCamp™️** program ensures you excel in your first role and beyond. Get expert guidance on resumes, interview prep, and networking opportunities to launch a successful tech career.
-
-**Learn More**: [Metana’s JobCamp™️](https://metana.io/jobcamp/)
+👉 **[Learn More →](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)**  
 
 ---
 
+### **3. Full Stack Web3 Beginner Bootcamp (8 Months)**  
+> From novice to expert—this program is tailored for complete beginners looking to master both Web2 and Web3 development.
 
+#### **Key Features**:
+- **Structure**:  
+  3 months of Full Stack fundamentals, followed by 5 months of advanced Web3 development.  
+- **Topics Covered**:  
+  Front-End and Back-End Web Development, Advanced Solidity, Blockchain Integrations, and UI/UX Design.  
+- **Hands-On Experience**: Build projects that combine Web2 and Web3 technologies seamlessly.  
+- **Career Boost**: Job placement assistance to kickstart your tech career.  
 
-## Why Choose Metana?
-- **Personalized Mentorship**: Weekly one-on-one sessions to guide and improve your skills.
-- **Small Cohorts**: Collaborate with like-minded peers in focused groups.
-- **Hands-On Learning**: 80% of our curriculum involves real coding projects.
-- **Industry Recognition**: High satisfaction rate and top ratings in Web3 education.
+👉 **[Learn More →](https://metana.io/web3-beginner-bootcamp/)**  
 
+---
 
+## 💼 **Metana's JobCamp™️**  
+> Unlock your career potential with **JobCamp™️**—a dedicated program for job preparation, networking, and career growth.  
 
-## Join Our Community
-Gain lifetime access to our network of international professionals, industry experts, and exclusive learning resources.
+### **What We Offer**:
+- Resume and portfolio building tailored for tech roles.  
+- Mock interviews and technical assessments.  
+- Networking opportunities with leading companies.  
 
-[![Join Our Community](https://img.shields.io/badge/Join%20Our%20Community-%23B5F732?style=for-the-badge&logo=discord&logoColor=8A2BE2)](https://discord.gg/34HUEGrSfX)
+👉 **[Learn More →](https://metana.io/jobcamp/)**  
 
+---
 
-Transform your career with Metana 
+## 🌟 Why Choose Metana?  
+- **Expert Mentorship**: Weekly personalized coaching sessions with seasoned professionals.  
+- **Collaborative Learning**: Small, focused cohorts to foster growth and teamwork.  
+- **Real-World Skills**: 80% of our curriculum involves practical, project-based training.  
+- **Global Network**: Join a community of tech enthusiasts and industry leaders.
 
-[![Apply Now](https://img.shields.io/badge/Apply%20Now-%E2%9E%9C-%23B5F732?style=for-the-badge&logo=metana&logoColor=white)](https://metana.io/apply)
+---
 
+## 🤝 Join Our Community  
+Be part of a thriving community of learners, mentors, and industry experts.  
 
+[![Join Our Community](https://img.shields.io/badge/Join%20Our%20Community-%232B9348?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/34HUEGrSfX)  
+
+---
+
+## 🎯 Take the First Step Today!  
+Your dream tech career is just a click away. Apply now and begin your journey with Metana.
+
+[![Apply Now](https://img.shields.io/badge/Apply%20Now-%E2%9E%9C-%232B9348?style=for-the-badge&logo=metana&logoColor=white)](https://metana.io/apply)
+
+---
