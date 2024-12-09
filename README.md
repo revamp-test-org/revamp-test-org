@@ -1,7 +1,7 @@
 # Welcome to Metana! 👋  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=2B9348&background=161B22&center=true&vCenter=true&width=1000&height=100&lines=Shape+Your+Future+With+Metana!;Master+Web3+and+Full-Stack+Development+🌟)](https://git.io/typing-svg)
 
-**Metana empowers aspiring developers with immersive, hands-on training in Full Stack and Web3 technologies. Through practical projects, expert mentorship, and dedicated career guidance, we help you land high-demand tech roles and build a future-proof career.**
+## **Metana empowers aspiring developers with immersive, hands-on training in Full Stack and Web3 technologies. Through practical projects, expert mentorship, and dedicated career guidance, we help you land high-demand tech roles and build a future-proof career.**
 
 ---
 
