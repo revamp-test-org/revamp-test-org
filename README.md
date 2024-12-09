@@ -18,7 +18,8 @@
 - **Career Success**: Tailored guidance and job placement support via **Metana's JobCamp™️**.
 
 👉 **[Learn More →](https://metana.io/full-stack-software-engineer-bootcamp/)**  
-
+<br>
+<br>
 
 
 ### **2. Web3 Solidity Bootcamp (4 Months)**  
@@ -32,6 +33,8 @@
 - **Job Placement**: Comprehensive support to secure your dream role in Web3.  
 
 👉 **[Learn More →](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)**  
+<br>
+<br>
 
 
 
@@ -47,8 +50,10 @@
 - **Career Boost**: Job placement assistance to kickstart your tech career.  
 
 👉 **[Learn More →](https://metana.io/web3-beginner-bootcamp/)**  
+<br>
+<br>
 
----
+
 
 ## 💼 **Metana's JobCamp™️**  
 > Unlock your career potential with **JobCamp™️**—a dedicated program for job preparation, networking, and career growth.  
@@ -59,6 +64,7 @@
 - Networking opportunities with leading companies.  
 
 👉 **[Learn More →](https://metana.io/jobcamp/)**  
+<br>
 
 ---
 
@@ -67,6 +73,7 @@
 - **Collaborative Learning**: Small, focused cohorts to foster growth and teamwork.  
 - **Real-World Skills**: 80% of our curriculum involves practical, project-based training.  
 - **Global Network**: Join a community of tech enthusiasts and industry leaders.
+<br>
 
 ---
 
@@ -74,6 +81,7 @@
 Be part of a thriving community of learners, mentors, and industry experts.  
 
 [![Join Our Community](https://img.shields.io/badge/Join%20Our%20Community-%232B9348?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/34HUEGrSfX)  
+<br>
 
 ---
 
@@ -81,5 +89,7 @@ Be part of a thriving community of learners, mentors, and industry experts.
 Your dream tech career is just a click away. Apply now and begin your journey with Metana.
 
 [![Apply Now](https://img.shields.io/badge/Apply%20Now-%E2%9E%9C-%232B9348?style=for-the-badge&logo=metana&logoColor=white)](https://metana.io/apply)
+<br>
+<br>
 
 ---
