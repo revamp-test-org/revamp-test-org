@@ -91,5 +91,8 @@ Your dream tech career is just a click away. Apply now and begin your journey wi
 [![Apply Now](https://img.shields.io/badge/Apply%20Now-%E2%9E%9C-%232B9348?style=for-the-badge&logo=metana&logoColor=white)](https://metana.io/apply)
 <br>
 <br>
+<img src="./header.png" alt="Metana Logo" style="margin-right: 20px; width: 1200px; height: 200px;">
+<br>
+<br>
 
 ---
