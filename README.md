@@ -5,8 +5,8 @@
 ### **Metana empowers aspiring developers with immersive, hands-on training in Full Stack and Web3 technologies. Through practical projects, expert mentorship, and dedicated career guidance, we help you land high-demand tech roles and build a future-proof career.**
 
 
-
-## 🚀 Bootcamp Offerings  
+🚀 [![Typing SVG](https://readme-typing-svg.demolab.com?font=be+vietnam+pro&weight=900&size=19&letterSpacing=letter-spacing%3A+.2rem;&pause=1001&color=CF9FFF&vCenter=true&width=435&lines=Bootcamp+offerings)](https://git.io/typing-svg)
+<br>
 
 ### **1. Full Stack Development Bootcamp (4 Months)**  
 > A streamlined program designed for professionals eager to build robust web applications and transition into tech roles seamlessly.
